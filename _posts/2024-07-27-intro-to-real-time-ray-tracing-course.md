@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: ACM SIGGRAPH 2024 Course
 categories: [Ray Tracing, DXR, Vulkan, SIGGRAPH]
 ---
 

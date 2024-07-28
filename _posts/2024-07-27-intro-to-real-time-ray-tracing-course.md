@@ -17,7 +17,9 @@ Four Seasons 4
 [Coming soon! Check the SIGGRAPH 2024 page for more info.](https://s2024.conference-program.org/presentation/?id=gensub_367&sess=sess156)
 
 ## Course Schedule
-
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
 | Time | Topic                                 | Slides | Speaker |
 | ---- | ------------------------------------- | ------ | ------- |
 |      | Welcome & Introductions               |        | Laura   |
@@ -28,6 +30,7 @@ Four Seasons 4
 |      | Demo                                  |        | Chris   |
 |      | Next Steps                            |        | Chris   |
 |      | Q&A                                   |        |         |
+</div>
 
 ## Example Code
 

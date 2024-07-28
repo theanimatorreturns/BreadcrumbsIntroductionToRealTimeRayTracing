@@ -15,11 +15,11 @@ Coming soon!
 Example code for the course can be found on [GitHub](https://github.com/vixorien/IntroductionToRealTimeRayTracing).
 
 ## Additional Real-Time Ray Tracing Resources
-[McGuire, Shirley, and Wyman, _Introduction to Real-Time Ray Tracing_, 28 Jul 2019, SIGGRAPH'19 Courses](https://rtintro.realtimerendering.com/)
-[Wyman, Hargreaves, Shirely, Barré-Brisebois, Introduction to DirectX RayTracing, SIGGRAPH'18 Courses](https://intro-to-dxr.cwyman.org/)
-[Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-[DXR Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
-[Vulkan Ray Tracing Spec](https://docs.vulkan.org/spec/latest/chapters/raytracing.html)
+McGuire, Shirley, and Wyman, [_Introduction to Real-Time Ray Tracing_](https://rtintro.realtimerendering.com/), 28 Jul 2019, SIGGRAPH'19 Courses\
+ Wyman, Hargreaves, Shirely, Barré-Brisebois, [_Introduction to DirectX RayTracing_](https://intro-to-dxr.cwyman.org/), SIGGRAPH'18 Courses\
+ [Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
+ [DXR Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)\
+ [Vulkan Ray Tracing Spec](https://docs.vulkan.org/spec/latest/chapters/raytracing.html)
 
 ## Speaker Biographies
 ### Chris Cascioli

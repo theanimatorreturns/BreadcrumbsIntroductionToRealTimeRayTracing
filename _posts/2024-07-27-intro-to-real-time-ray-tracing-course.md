@@ -7,7 +7,7 @@ categories: [Ray Tracing, DXR, Vulkan, SIGGRAPH]
 ### Chris Cascioli, Laura Reznikov
 
 ## Course Video
-Coming soon!
+###Coming soon!
 
 ## Course Schedule
 
@@ -15,6 +15,6 @@ Coming soon!
 
 ## Additional Real-Time Ray Tracing Resources
 
-## Speaker Biographies
+<!--more-->
 
 

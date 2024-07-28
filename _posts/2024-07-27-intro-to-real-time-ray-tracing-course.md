@@ -3,6 +3,9 @@ layout: post
 title: 
 categories: [Ray Tracing, DXR, Vulkan, SIGGRAPH]
 ---
+
+![course example image of ray traced spheres](/images/image5.png "Logo Title Text 1")
+
 ## Course Video
 Coming soon!
 

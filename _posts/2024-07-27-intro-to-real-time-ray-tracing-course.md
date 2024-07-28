@@ -5,9 +5,13 @@ categories: [Ray Tracing, DXR, Vulkan, SIGGRAPH]
 ---
 
 ![course example image of ray traced spheres](/images/image5.png "Logo Title Text 1")
+## Course Time & Location
+Monday, 29 July 2024\
+10:45am - 12:15pm MDT\
+Four Seasons 4
 
 ## Course Video
-Coming soon!
+[Coming soon! Check the SIGGRAPH 2024 page for more info.](https://s2024.conference-program.org/presentation/?id=gensub_367&sess=sess156)
 
 ## Course Schedule
 | Time | Topic | Slides | Speaker

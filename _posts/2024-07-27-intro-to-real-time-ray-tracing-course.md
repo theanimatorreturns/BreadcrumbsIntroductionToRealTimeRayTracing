@@ -20,6 +20,7 @@ Four Seasons 4
 <div style="margin-left: auto;
             margin-right: auto;
             width: 50%">
+            
 | Time | Topic                                 | Slides | Speaker |
 | ---- | ------------------------------------- | ------ | ------- |
 |      | Welcome & Introductions               |        | Laura   |
@@ -30,6 +31,7 @@ Four Seasons 4
 |      | Demo                                  |        | Chris   |
 |      | Next Steps                            |        | Chris   |
 |      | Q&A                                   |        |         |
+
 </div>
 
 ## Example Code

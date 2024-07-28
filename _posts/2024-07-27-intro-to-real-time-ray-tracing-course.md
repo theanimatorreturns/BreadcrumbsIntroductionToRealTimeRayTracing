@@ -10,6 +10,16 @@ categories: [Ray Tracing, DXR, Vulkan, SIGGRAPH]
 Coming soon!
 
 ## Course Schedule
+| Time | Topic | Slides | Speaker
+|--|--|--|--|
+|  | Welcome & Introductions |   | Laura
+|  | Rasterization vs Ray Tracing Pipeline |   | Laura
+|  | Ray Tracing Shaders |   | Laura
+|  | Acceleration Structures |   | Laura
+|  | Basic Implementation |   | Chris
+|  | Demo |   | Chris
+|  | Next Steps |   | Chris
+|  | Q&A |   | 
 
 ## Example Code
 Example code for the course can be found on [GitHub](https://github.com/vixorien/IntroductionToRealTimeRayTracing).

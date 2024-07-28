@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: #contact@introtorealtimeraytracing.com
+  email: contact@introtorealtimeraytracing.com
   facebook:
   flickr:
   github: vixorien/IntroductionToRealTimeRayTracing
@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://theanimatorreturns.github.io
-enforce_ssl: https://theanimatorreturns.github.io
+url: http://introtorealtimeraytracing.com
+enforce_ssl: https://introtorealtimeraytracing.com
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)

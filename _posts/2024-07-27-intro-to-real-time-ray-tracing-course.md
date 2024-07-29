@@ -38,12 +38,12 @@ Example code for the course can be found on [GitHub](https://github.com/vixorien
 McGuire, Shirley, and Wyman, [_Introduction to Real-Time Ray Tracing_](https://rtintro.realtimerendering.com/), 28 Jul 2019, SIGGRAPH'19 Courses\
 Wyman, Hargreaves, Shirely, Barré-Brisebois, [_Introduction to DirectX RayTracing_](https://intro-to-dxr.cwyman.org/), SIGGRAPH'18 Courses
 
-  ### Books
+### Books
 [Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
 [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - PDF available for free\
 [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) - PDF available for free
 
- ### Specs
+### Specs
  
  [DXR Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)\
  [Vulkan Ray Tracing Spec](https://docs.vulkan.org/spec/latest/chapters/raytracing.html)

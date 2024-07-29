@@ -18,16 +18,15 @@ Four Seasons 4
 
 ## Course Schedule
             
-| Time | Topic                                 | Slides | Speaker |
-| ---- | ------------------------------------- | ------ | ------- |
-|      | Welcome & Introductions               |        | Laura   |
-|      | Rasterization vs Ray Tracing Pipeline |        | Laura   |
-|      | Ray Tracing Shaders                   |        | Laura   |
-|      | Acceleration Structures               |        | Laura   |
-|      | Basic Implementation                  |        | Chris   |
-|      | Demo                                  |        | Chris   |
-|      | Next Steps                            |        | Chris   |
-|      | Q&A                                   |        |         |
+| Time | Topic                                 | 
+| ---- | ------------------------------------- | 
+|10:45 am   | Welcome & Introductions               | 
+|10:52 am      | Rasterization vs Ray Tracing Pipeline | 
+|10:55 am      | Ray Tracing Pipeline                  | 
+|11:00 am      | Acceleration Structures               | 
+|11:05 am      | Ray Tracing Shaders           |
+|11:15 am      | Basic Implementation          | 
+|12:10 am      | Demo & Next Steps             | 
 
 ## Example Code
 
@@ -35,9 +34,17 @@ Example code for the course can be found on [GitHub](https://github.com/vixorien
 
 ## Additional Real-Time Ray Tracing Resources
 
+### SIGGRAPH Courses
 McGuire, Shirley, and Wyman, [_Introduction to Real-Time Ray Tracing_](https://rtintro.realtimerendering.com/), 28 Jul 2019, SIGGRAPH'19 Courses\
- Wyman, Hargreaves, Shirely, Barré-Brisebois, [_Introduction to DirectX RayTracing_](https://intro-to-dxr.cwyman.org/), SIGGRAPH'18 Courses\
- [Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
+Wyman, Hargreaves, Shirely, Barré-Brisebois, [_Introduction to DirectX RayTracing_](https://intro-to-dxr.cwyman.org/), SIGGRAPH'18 Courses
+
+  ### Books
+[Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
+[Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - PDF available for free\
+[Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) - PDF available for free
+
+ ### Specs
+ 
  [DXR Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)\
  [Vulkan Ray Tracing Spec](https://docs.vulkan.org/spec/latest/chapters/raytracing.html)
 
